@@ -65,23 +65,23 @@
     ]
   },
   "dependencies": {
-    "@feathersjs/errors": "^4.5.15"
+    "@feathersjs/errors": "^5.0.27"
   },
   "devDependencies": {
-    "@feathersjs/express": "^4.5.15",
-    "@feathersjs/feathers": "^4.5.15",
-    "@feathersjs/rest-client": "^4.5.15",
-    "@feathersjs/socketio": "^4.5.15",
-    "@semantic-release/changelog": "^6.0.1",
+    "@feathersjs/express": "^5.0.27",
+    "@feathersjs/feathers": "^5.0.27",
+    "@feathersjs/rest-client": "^5.0.27",
+    "@feathersjs/socketio": "^5.0.27",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
-    "@types/node": "^18.7.14",
-    "axios": "^0.27.2",
+    "@types/node": "^20.14.9",
+    "axios": "^1.7.2",
     "dtslint": "^4.2.1",
     "feathers-memory": "^4.1.0",
-    "mocha": "^10.0.0",
-    "npm-check-updates": "^16.0.6",
-    "nyc": "^15.1.0",
-    "semistandard": "^16.0.1",
-    "typescript": "^4.8.2"
+    "mocha": "^10.5.2",
+    "npm-check-updates": "^16.14.20",
+    "nyc": "^17.0.0",
+    "semistandard": "^17.0.0",
+    "typescript": "^5.5.2"
   }
 }
